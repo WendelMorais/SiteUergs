@@ -9,7 +9,6 @@
 
 Projeto realizado para suprir as necessidades da Unidade de Cruz Alta.
 
-Foi desenvolvido um sistema de CRUD para clientes e eventos.
 
 O Website foi desenvolvido para o o Seminário Internacional de Educação. No projeto foram utilizadas as tecnologias de HTML, CSS, PHP e JS.
 
